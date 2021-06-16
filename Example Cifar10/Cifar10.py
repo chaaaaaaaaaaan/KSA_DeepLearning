@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 20 09:28:03 2021
-
-@author: skukm
-"""
-
 #import library
 import matplotlib.pyplot as plt
 import numpy as np
